@@ -22,6 +22,8 @@ A modpack designed for players seeking
 In this vast world, <strong>you decide your fate</strong>, so get going and <strong>begin your journey</strong>.
 
 
+Visit Modrinth page: https://modrinth.com/modpack/outerworlds
+
 # Features 🎭 [Updated!]
 
 
