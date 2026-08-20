@@ -26,7 +26,7 @@ A modpack designed for players seeking
 In this vast world, <strong>you decide your fate</strong>, so get going and <strong>begin your journey</strong>.
 
 
-# Features 🎭 [Updated!]
+# Features 🎭
 
 
 - ![Minecraft Icon](https://cdn.modrinth.com/data/cached_images/1a046afca15d041643d46088be5b1f0ae9ca1a4c_0.webp)  Just like **Vanilla Minecraft but better!**
