@@ -1,8 +1,8 @@
-# ![Outerworlds v1.2.0 - The Lively Update](https://cdn.modrinth.com/data/cached_images/63587b5eaedbf5bc0d55e59f1de812957d1d08e1.png)
+# ![Outerworlds v1.3.0 - Title](https://cdn.modrinth.com/data/cached_images/4fb0b9b4c0f31b1e9e6201afb7d4755b243083a6.png)
 
 </p>
 <p align="center">
-<strong>‎Outerworlds V1.3.0 releases in September 5, 2026</strong>
+<strong>‎Outerworlds v1.3.0 is now RELEASED</strong>
 </p>
 
 </p>
@@ -26,20 +26,19 @@ A modpack designed for players seeking
 In this vast world, <strong>you decide your fate</strong>, so get going and <strong>begin your journey</strong>.
 
 
-# Features 🎭
+# Features 🎭 [NEW]
 
 
 - ![Minecraft Icon](https://cdn.modrinth.com/data/cached_images/1a046afca15d041643d46088be5b1f0ae9ca1a4c_0.webp)  Just like **Vanilla Minecraft but better!**
 - 🌍 An Overworld with more than **100+ biomes** to explore!
+- 💫 **Modified** Dimensions!
 - 🏃‍♀️‍➡️ **Better animations** providing a more satisfying experience!
 - ✨ Feel the world **alive** with better **Visual Effects** 
 - 🔊 **Immersive** experience with new **Sound Effects**
 - 📷 An overhaul on the Third Person View, providing a **different way to play**.
 - 🎮 **Controller friendly**!
 - 🖼️ **Smooth framerate** while still having **good visuals** (and runs on potato Pcs).
-- ⚔️ A Simplified Combat system providing **enjoyable fights**.
 - 📱 **Simpler** and more **intuitive UI**.
-- 📆 **All four earth seasons** to check out!
 
 # FAQ ❓
 
