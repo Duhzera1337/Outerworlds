@@ -29,13 +29,13 @@ In this vast world, <strong>you decide your fate</strong>, so get going and <str
 # Features 🎭 [NEW]
 
 
-- ![Minecraft Icon](https://cdn.modrinth.com/data/cached_images/1a046afca15d041643d46088be5b1f0ae9ca1a4c_0.webp)  Just like **Vanilla Minecraft but better!**
-- 🌍 An Overworld with more than **100+ biomes** to explore!
-- 💫 **Modified** Dimensions!
-- 🏃‍♀️‍➡️ **Better animations** providing a more satisfying experience!
-- ✨ Feel the world **alive** with better **Visual Effects** 
-- 🔊 **Immersive** experience with new **Sound Effects**
-- 📷 An overhaul on the Third Person View, providing a **different way to play**.
+- ![Minecraft Icon](https://cdn.modrinth.com/data/cached_images/1a046afca15d041643d46088be5b1f0ae9ca1a4c_0.webp)  Just like **Vanilla Minecraft with more!**
+- 🌍 Modified **World Generation**!
+- 🌴 New **Biomes** scattered across all dimensions!
+- 🏃‍♀️‍➡️ A more satisfying experience with **Better Animations**!
+- ✨ Feel the world **alive** with better **Visual Effects** !
+- 🔊 **Immersive** experience with new **Sound Effects** and **In-game Music**!
+- 📷 Playable **Third Person View** camera mode!
 - 🎮 **Controller friendly**!
 - 🖼️ **Smooth framerate** while still having **good visuals** (and runs on potato Pcs).
 - 📱 **Simpler** and more **intuitive UI**.
